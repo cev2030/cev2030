@@ -1,6 +1,4 @@
-## Carlos Eduardo Vargas
-
-Is a social innovator and policy professional working at the intersection of institutions, technology, and community-driven impact. He is currently pursuing an M.S. in Computational Analysis and Public Policy (MSCAPP) at the University of Chicago, building on a background in law, governance, and business administration.
+Carlos Eduardo Vargas Is a social innovator and policy professional working at the intersection of institutions, technology, and community-driven impact. He is currently pursuing an M.S. in Computational Analysis and Public Policy (MSCAPP) at the University of Chicago, building on a background in law, governance, and business administration.
 
 Carlos has over a decade of experience designing and leading initiatives in social innovation, public value creation, and international development. He has founded and led organizations in Venezuela & LATAM including 1001 Ideas, the InterAmerican Public Innovation Agency, Cultura Lírica, and Ideas Inquietas, working with purpose-led entrepreneurs, artists, and civic actors to translate ideas into scalable impact.
 
@@ -10,6 +8,8 @@ At UChicago, Carlos complements his policy and leadership background with applie
 
 He has participated in and contributed to global forums such as One Young World and the World Economic Forum’s Global Shapers Community, and continues to work across disciplines and cultures to bridge policy, technology, and practice.
 <!--
+## Carlos Eduardo Vargas
+
 **cev2030/cev2030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
